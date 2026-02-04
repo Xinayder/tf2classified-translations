@@ -138,22 +138,22 @@
 // Kill feed
 // ----------------------------------------------------------------
 
-"DeathMsg_KilledVIP"			"killed the VIP!"
-"DeathMsg_KilledTeamVIP"		"killed the %s1 VIP!"
+"DeathMsg_KilledVIP"			"matou o VIP!"
+"DeathMsg_KilledTeamVIP"		"matou o VIP de %s1!"
 
 "DeathMsg_VIP"					"VIP"
-"DeathMsg_ComboKill"			"COMBO KILL!"
-"DeathMsg_AirshotKill"			"AIRSHOT!"
+"DeathMsg_ComboKill"			"COMBO!"
+"DeathMsg_AirshotKill"			"TIRO AÉREO!"
 
 // Custom suicides
-"DeathMsg_Suicide_Boioing"		"took to the skies!"
-"DeathMsg_Suicide_Stomp"		"experienced high gravity"
-"DeathMsg_Suicide_Disintegrate"	"turned to ash"
-"DeathMsg_Suicide_Decapitate"	"downgraded to torso"
-"DeathMsg_Suicide_Gold"			"struck gold"
-"DeathMsg_Suicide_Freeze"		"froze solid"
-"DeathMsg_Suicide_Fizzle"		"was electrified!"
-"DeathMsg_Suicide_Disappear"	"disappeared"
+"DeathMsg_Suicide_Boioing"		"foi para o céu!"
+"DeathMsg_Suicide_Stomp"		"experimentou alta gravidade"
+"DeathMsg_Suicide_Disintegrate"	"virou cinzas"
+"DeathMsg_Suicide_Decapitate"	"rebaixado para torso"
+"DeathMsg_Suicide_Gold"			"virou ouro"
+"DeathMsg_Suicide_Freeze"		"virou picolé"
+"DeathMsg_Suicide_Fizzle"		"foi eletrificado!"
+"DeathMsg_Suicide_Disappear"	"desapareceu"
 
 // ----------------------------------------------------------------
 // Voice Menu
