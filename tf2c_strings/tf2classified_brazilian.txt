@@ -57,10 +57,10 @@
 "TF_GreenTeam_Name"				"GRN"
 "TF_YellowTeam_Name"			"YLW"
 
-"TF_Other_Name"					"OTHER"
+"TF_Other_Name"					"INIMIGOS"
 
 // Disguise Kit global disguise
-"Hud_Menu_Disguise_GlobalTeam"	"Global Disguise: Every enemy will see you as their own team."
+"Hud_Menu_Disguise_GlobalTeam"	"Disfarce Global: Todos os inimigos irão te ver como parte da sua própria equipe."
 
 // ----------------------------------------------------------------
 // Classes
@@ -73,11 +73,11 @@
 "TF_Class_Name_Civilian" 	"Civilian"
 
 "ClassTips_10_Count"	"3"
-"ClassTips_10_1"		"Boost a teammate to give them an advantage in battle!"
+"ClassTips_10_1"		"Aumente o poder de um companheiro de equipe para dar a ele uma vantagem na batalha!"
 "ClassTips_10_1_Icon"	"chalf_circle"
-"ClassTips_10_2"		"Stay near teammates to give them damage resistance and passive healing!"
+"ClassTips_10_2"		"Fique perto dos seus companheiros de equipe para lhes dar resistência a dano e cura passiva!"
 "ClassTips_10_2_Icon"	"chalf_circle"
-"ClassTips_10_3"		"Be helpless in fights!"
+"ClassTips_10_3"		"Inútil nas lutas!"
 "ClassTips_10_3_Icon"	"chalf_circle"
 
 // ----------------------------------------------------------------
@@ -89,17 +89,17 @@
 "TF_playerid_diffteam"			        "%s1Inimigo(a): %s2"
 "TF_playerid_noteam"					"%s1"
 "TF_playerid_friendlyspy_disguise"		"Disfarçado como um %s2 %s1"
-"TF_playerid_wpn_ammo_clip"				"%s1  -  Ammo: %s2 (%s3)"
-"TF_playerid_wpn_ammo"					"%s1  -  Ammo: %s2"
+"TF_playerid_wpn_ammo_clip"				"%s1  -  Munições: %s2 (%s3)"
+"TF_playerid_wpn_ammo"					"%s1  -  Munições: %s2"
 "TF_playerid_wpn"						"%s1"
 
 // Boosts
-"TF_playerid_healer"					"Cura por: "
+"TF_playerid_healer"					"Curado por: "
 "TF_playerid_healtarget"				"Curando: "
 "TF_playerid_mediccharge"				"ÜberCarga: %s1%"
 "TF_playerid_mediccharge_wpn"			"ÜberCarga: %s1% (%s2%)"
-"TF_playerid_civiliancharge"			"Boost: %s1%"
-"TF_playerid_civiliancharge_wpn"		"Boost: %s1% (%s2%)"
+"TF_playerid_civiliancharge"			"Poder: %s1%"
+"TF_playerid_civiliancharge_wpn"		"Poder: %s1% (%s2%)"
 
 // Buildings
 "TF_playerid_object"					"%s1 de %s2"
@@ -107,16 +107,16 @@
 "TF_playerid_object_mini"				"Mini-%s1 de %s2"
 "TF_playerid_object_mode"				"%s3 do %s1 de %s2"
 "TF_playerid_object_level"				"( Nível %s1 )"
-"TF_playerid_object_upgrade"			"Upgrade: %s1"
-"TF_playerid_object_upgrade_level"		"Level %s1  -  Upgrade: %s2"
+"TF_playerid_object_upgrade"			"Melhoria: %s1"
+"TF_playerid_object_upgrade_level"		"Nível %s1  -  Aprimoramento: %s2"
 "TF_playerid_object_upgrading"			"Aprimorando..."
-"TF_playerid_object_upgrading_level"	"Level %s1  -  Upgrading..."
-"TF_playerid_object_building"			"Building..."
-"TF_playerid_object_building_level"		"Level %s1  -  Building..."
-"TF_playerid_teleporter_no_entrance"	"  -  No Teleporter Entrance"
-"TF_playerid_teleporter_no_exit"		"  -  No Teleporter Exit"
-"TF_playerid_object_recharging"			"  -  Recharging: %s1%"
-"TF_playerid_object_flooded"			"Flooded"
+"TF_playerid_object_upgrading_level"	"Nível %s1  -  Aprimorando..."
+"TF_playerid_object_building"			"Construindo..."
+"TF_playerid_object_building_level"		"Nível %s1  -  Contruindo..."
+"TF_playerid_teleporter_no_entrance"	"  -  Sem Entrada de Teleporte"
+"TF_playerid_teleporter_no_exit"		"  -  Sem Saída de Teleporte"
+"TF_playerid_object_recharging"			"  -  Recarregando: %s1%"
+"TF_playerid_object_flooded"			"Inundado"
 "TF_playerid_carrying"					"Carregando: %s1"
 "TF_playerid_carrying_lvl"				"Carregando: %s1 ( Nível %s2 )"
 
