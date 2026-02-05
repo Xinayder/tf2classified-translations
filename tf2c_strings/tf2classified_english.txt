@@ -1337,7 +1337,6 @@ Team ownership of Control Points is randomized at the start of each round."
 "TF_GlowEffects_Tip" 			  "If set, glow effects will be enabled during the match for objectives like VIPs, Payload carts, and CTF intelligence briefcases."
 
 // ViewModel
-
 "TF_ViewModelFOV"				"Viewmodel Field of View"
 "TF_FlipViewModels"				"Flip Viewmodels"
 "TF_InvisibleArms"				"Use Invisible Arm Viewmodels"
@@ -1356,7 +1355,6 @@ Team ownership of Control Points is randomized at the start of each round."
 "TF2c_Option_Proximity_Voice_Local"	"Enable Proximity Voice Chat."
 
 // Multiplayer
-
 "TF_MessageAlert"				    "Enable chat message sound"
 "TF_MessageAlert_Tip"			    "If set, a sound will play when a chat message is received"
 "TF_MessageVolume"				    "Chat message sound volume"
@@ -1462,7 +1460,7 @@ Team ownership of Control Points is randomized at the start of each round."
 "TF2C_ACHIEVEMENT_ARCHAEOLOGY_NAME"						"Archaeology"
 "TF2C_ACHIEVEMENT_ARCHAEOLOGY_DESC"						"Discover the buried treasure in Jinn."
 "TF2C_ACHIEVEMENT_AIRHOCKEY_NAME"						"Playmaker"
-"TF2C_ACHIEVEMENT_AIRHOCKEY_DESC"						"Win a game of Air Hockey on 2Bridge."
+"TF2C_ACHIEVEMENT_AIRHOCKEY_DESC"						"Win a game of Air Hockey on 2Bridge against another player."
 "TF2C_ACHIEVEMENT_CHICKEN_ENVKILL_NAME"					"Fowl Play"
 "TF2C_ACHIEVEMENT_CHICKEN_ENVKILL_DESC"					"Chase a chicken into an environmental kill."
 "TF2C_ACHIEVEMENT_4TEAM_BACKSTAB_NAME"					"Triple Agent"
