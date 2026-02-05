@@ -764,10 +764,10 @@
 "Amaranth_cap_B"	"RED's Shipping Facility"
 
 // 4dom_hydro
-"Hydro_dom_cap_warehouse"	"A, the Warehouse"
-"Hydro_dom_cap_radar_dish"	"B, the Radar Dish"
-"Hydro_dom_cap_power_plant"	"C, the Power Plant"
-"Hydro_dom_cap_dam"			"D, the Dam"
+"Hydro_dom_cap_warehouse"	"A, O Armazém"
+"Hydro_dom_cap_radar_dish"	"B, A Antena"
+"Hydro_dom_cap_power_plant"	"C, A Usina Elétrica"
+"Hydro_dom_cap_dam"			"D, A Represa"
 
 // vip_mineside
 "vip_mineside_description"	"Objective:
@@ -781,7 +781,7 @@ If BLU delivers the Suitcase Device, the gates timer will count down from 60 sec
 "Mineside_setup_goal_red"	"Kill the VIP to stop him from reaching the Escape Zone. Prevent him from grabbing the Device."
 "Mineside_setup_goal_blu"	"Escort the VIP to the Escape Zone. Deliver the Device to the Control Room to open the gate."
 
-"Mineside_escape_zone"	"the Escape Tunnel"
+"Mineside_escape_zone"	"Túnel de fuga"
 
 // dom_oilcanyon
 "Oilcanyon_cap_A"	"cap A, the Canyon"
@@ -789,7 +789,7 @@ If BLU delivers the Suitcase Device, the gates timer will count down from 60 sec
 "Oilcanyon_cap_C"	"cap C, the Refinery"
 
 // vip_trainyard
-"Trainyard_escape_zone"	"the Escape Vehicle"
+"Trainyard_escape_zone"	"Veículo de fuga
 
 // vip_harbor
 "Harbor_cap_1"			"the Loading Dock"
@@ -797,7 +797,7 @@ If BLU delivers the Suitcase Device, the gates timer will count down from 60 sec
 "Harbor_cap_3"			"the Warehouse"
 
 // 4dom_krepost
-"dom_krepost_description"	"Objective:
+"dom_krepost_description"	"Objetivos:
 To win, each team must capture and hold the currently active Control Point to gain points.
 
 The active Control Point switches to a random team's base every 60 seconds.
@@ -809,15 +809,15 @@ The active Control Point will lock when a new Control Point is chosen.
 
 Honorable hand to sword combat only!"
 
-"Krepost_cap_red"	"castelo da RED"
-"Krepost_cap_blu"	"castelo da BLU"
-"Krepost_cap_grn"	"castelo da GRN"
-"Krepost_cap_ylw"	"castelo da YLW"
+"Krepost_cap_red"	"Castelo da RED"
+"Krepost_cap_blu"	"Castelo da BLU"
+"Krepost_cap_grn"	"Castelo da GRN"
+"Krepost_cap_ylw"	"Castelo da YLW"
 
-"Krepost_attack_red"	"RED's gate is open!"
-"Krepost_attack_blu"	"BLU's gate is open!"
-"Krepost_attack_grn"	"GRN's gate is open!"
-"Krepost_attack_ylw"	"YLW's gate is open!"
+"Krepost_attack_red"	"Portão do RED está aberto!"
+"Krepost_attack_blu"	"Portão do BLU está aberto!"
+"Krepost_attack_grn"	"Portão do GRN está aberto!"
+"Krepost_attack_ylw"	"Portão do YLN está aberto!"
 
 // td_caper
 "Caper_cap_A"	"cap A, the Laser Tower"
@@ -829,8 +829,8 @@ Honorable hand to sword combat only!"
 "2Bridge_cap_B"	"a ponte da BLU"
 
 // vipr_drizzle
-"Drizzle_cap_A"	"the RED Mine Entrance"
-"Drizzle_cap_B"	"the BLU Mine Entrance"
+"Drizzle_cap_A"	"Entrada da mina RED"
+"Drizzle_cap_B"	"Entrada da mina BLU"
 
 // dom_railway
 "Railway_cap_A"	"cap A, the Garage"
@@ -890,10 +890,10 @@ Honorable hand to sword combat only!"
 "Gametype_VIPRace_FourTeam"			"Corrida de VIPs (Quatro Equipes)"
 
 // Offline practice descriptions
-"TF_GameModeDesc_VIP"			"BLU escorts the Civilian to a control point. RED needs to stop them."
-"TF_GameModeDesc_VIPRace"		"Escort your Civilian to the finish line before the opposing team does."
-"TF_GameModeDesc_Domination"	"Capture points and hold them for as long as possible."
-"TF_GameModeDesc_Arena"			"Eliminate all enemy players or wait for the control point to unlock."
+"TF_GameModeDesc_VIP"			"BLU escolta o Civilian até o ponto de controle. RED precisa parar eles."
+"TF_GameModeDesc_VIPRace"		"Escolte o seu Civilian até a linha de chegada antes que o time inimigo faça."
+"TF_GameModeDesc_Domination"	"Capture pontos e segure eles pelo maxímo de tempo possível."
+"TF_GameModeDesc_Arena"			"Elimine todos os jogadores inimigos ou espere o ponto de controle ser desbloqueado."
 
 "TF_GameModeBrief_VIPRace"		"Corrida de VIPs - Ambas as equipes possuem VIPs"
 
@@ -910,21 +910,21 @@ Contesting a Control Point stops the enemy from gaining points using that Contro
 
 If your team is behind, capture all of the Control Points to gain a score bonus."
 
-"domination_setup_goal"	"Capture Control Points to gain points over time. Capturing more than one point will increase your chance of success!"
+"domination_setup_goal"	"Capture pontos de controle para ganhar pontos com o tempo. Captura mais de um ponto aumenta suas chances de vencer!"
 
 // VIP
 "default_vip_description"	"Objective:
 BLU team wins by escorting the VIP to the Escape Zone before the time runs out. RED team wins by preventing him from reaching the escape zone.
 
 Other Notes:
-BLU team can freeze the capture progress of a Control Point if the VIP isn't present."
+Time BLU pode parar o progresso da captura do ponto de controle se o VIP não está presente."
 
 "vip_setup_goal_offense"	"Escolte o VIP até a zona de fuga."
 "vip_setup_goal_defense"	"Elimine o VIP da equipe inimiga para impedí-lo de alcançar a zona de fuga."
 
 "TF_VIP_Assigned"				"%s1 tornou-se o VIP!"
 "TF_VIP_Tutorial_Annotation_2"	"He provides a defensive boost to those around him and\ncan also temporarily buff a member of his team with Mini-Crits!"
-"TF_VIP_Tutorial_Annotation_3"	"But remember, his life is more important than yours, so don't let him die!"
+"TF_VIP_Tutorial_Annotation_3"	"Mas lembre-se, a vida dele é mais importante que a sua, então não deixe ele morrer!"
 
 "Cant_cap_civilian_only"		"Apenas o VIP pode\n capturar este ponto."
 "Cant_cap_civilian_only_frozen"	"Captura pausada\n Apenas o VIP pode\n capturar este ponto."
@@ -934,12 +934,12 @@ BLU team can freeze the capture progress of a Control Point if the VIP isn't pre
 "vipl_setup_goal_defense"	"Elimine o VIP da equipe inimiga ou impeça-o de atingir a zona de fuga para vencer."
 
 // VIP (Flags)
-"vip_bring_flag_here"	"Bring the device here!"
-"vip_bring_flag"		"Bring the device to the Control Room!"
+"vip_bring_flag_here"	"Traga o dispositivo aqui!"
+"vip_bring_flag"		"Traga o dispositivo para a sala de controle!"
 
-"TF_VIP_TakeDeviceToPoint"		"Take the Device to the Control Room!"
-"TF_VIP_TeamDeviceReturned"		"The Device has returned! Go get it!"
-"TF_VIP_EnemyDeviceReturned"	"The Device has returned! Defend the drop site!"
+"TF_VIP_TakeDeviceToPoint"		"Leve o dispositivo até a sala de controle!"
+"TF_VIP_TeamDeviceReturned"		"O dispositivo voltou! Vá pegar!"
+"TF_VIP_EnemyDeviceReturned"	"O dispositivo voltou! Defenda o ponto de entrega!"
 
 // VIP Race
 "default_vipr_description"	"Objective:
@@ -952,8 +952,8 @@ Either team can freeze the capture progress of a Control Point if their VIP isn'
 
 If Sudden Death occurs, the enemy VIP can be killed to win the round!"
 
-"vipr_setup_goal"		"Escort your VIP to the Control Points. Stop the enemy VIP from doing the same!"
-"vipr_setup_goal_4team"	"Escort your VIP to the Control Points. Stop the enemy teams from doing the same!"
+"vipr_setup_goal"		"Escolte o seu VIP até os pontos de controle. Pare o VIP inimigo de fazer o mesmo!"
+"vipr_setup_goal_4team"	"Escort your VIP to the Control Points. Pare as equipes inimigar de fazer o mesmo!"
 
 "vipr_cap_wrong_vip"	"Capture o ponto de controle do INIMIGO, bobinho!"
 "vipr_own_civ_death"	"O VIP aliado foi eliminado! Proteja-o!"
@@ -964,8 +964,8 @@ If Sudden Death occurs, the enemy VIP can be killed to win the round!"
 "vipr_cap_b_reset_vip"	"You died! Control Point B has been reset!"
 
 "vipr_central_point"		"o ponto de controle central"
-"vipr_cap_mid_reset"		"The Central Control Point has been reset!"
-"vipr_death_cap_mid_reset"	"You died! The Central Control Point has been reset!"
+"vipr_cap_mid_reset"		"O ponto de controle central foi reiníciado!"
+"vipr_death_cap_mid_reset"	"Você morreu! O ponto de controle central foi reiníciado!"
 
 "vipr_red_civ_death"	"O VIP da RED foi eliminado!"
 "vipr_blu_civ_death"	"O VIP da BLU foi eliminado!"
@@ -1003,20 +1003,20 @@ Team ownership of Control Points is randomized at the start of each round."
 // ----------------------------------------------------------------
 
 // cp_coldfront
-"TF_IM_Coldfront_Intro"	"Coldfront is a Control Point map"
+"TF_IM_Coldfront_Intro"	"Coldfront é um mapa de Ponto de Controle"
 
 // cp_steel
-"TF_IM_Steel_Intro"	"Steel is an attack and defend map."
-"TF_IM_Steel_BlueWin"	"BLU has to capture point E in order to win the round."
-"TF_IM_Steel_PlotTwist"	"However..."
-"TF_IM_Steel_FinalCap"	"Point E is always in play. BLU can capture it at any time."
-"TF_IM_Steel_Points"	"Capturing points A, B, C, and D will make E easier to take!"
+"TF_IM_Steel_Intro"	"Steel é um mapa de Ataque/Defesa."
+"TF_IM_Steel_BlueWin"	"BLU precisa captura o ponto E para vencer a rodada."
+"TF_IM_Steel_PlotTwist"	"Porém..."
+"TF_IM_Steel_FinalCap"	"O ponto E está sempre ativo. BLU pode capturar o ponto a qualquer momento."
+"TF_IM_Steel_Points"	"Capturando os pontos A, B, C, e D facilitam a captura do ponto E!"
 "TF_IM_Steel_CapA"	"Capturing A opens additional paths to B and E."
 "TF_IM_Steel_CapB"	"Capturing B moves RED's spawnroom and also opens an additional route to C. "
 "TF_IM_Steel_CapC"	"Capturing C extends bridges to E."
 "TF_IM_Steel_CapD"	"Capturing D blocks RED from easily reaching E."
 "TF_IM_Steel_Bridge"	"Without the bridges, E cannot be reached by everyone."
-"TF_IM_Steel_Pit"	"Watch out for the pit!"
+"TF_IM_Steel_Pit"	"Cuidado com o poço!"
 
 // VIP Race
 "TF_IM_VIPR_Intro"	"Welcome to the VIP Race game mode"
@@ -1146,9 +1146,9 @@ Team ownership of Control Points is randomized at the start of each round."
 
 // Item slot types
 "TF_Loadout_Slot_Invalid"		"Invalid"
-"TF_Loadout_Slot_Primary"		"Primary"
-"TF_Loadout_Slot_Secondary"		"Secondary"
-"TF_Loadout_Slot_Melee"			"Melee"
+"TF_Loadout_Slot_Primary"		"Primário"
+"TF_Loadout_Slot_Secondary"		"Secundário"
+"TF_Loadout_Slot_Melee"			"Corpo a corpo"
 "TF_Loadout_Slot_Utility"		"Utility"
 "TF_Loadout_Slot_Building"		"Building"
 "TF_Loadout_Slot_PDA1"			"PDA"
@@ -1194,7 +1194,7 @@ Team ownership of Control Points is randomized at the start of each round."
 "TF_Voice_Menu_2_0"						"Comando de voz: Ajuda!"
 "TF_Spec_Next"							"Ver próximo alvo de espectador"
 "TF_Spec_Prev"							"Ver alvo de espectador anterior"
-"TF_Spec_Mode"							"Switch Spectate Mode"
+"TF_Spec_Mode"							"Mudar modo de espectador"
 "TF_Use"								"Use (Interact)"
 "TF_Kill"								"Kill (Self)"
 "TF_Explode"							"Explode (Self)"
@@ -1213,7 +1213,7 @@ Team ownership of Control Points is randomized at the start of each round."
 "TF2c_MouseSensitivity"					"Sensibilidade do mouse"
 "TF2c_MouseSmoothing"					"Suavização do mouse"
 "TF2c_MouseAcceleration"				"Aceleração do mouse"
-"TF2c_MouseAccelerationStrength"		"Mouse Acceleration Strength"
+"TF2c_MouseAccelerationStrength"		"Força da aceleração do mouse"
 
 "TF2c_Options_Game"                     "JOGO"
 "TF2c_Options_Input"                    "INPUT"
@@ -1233,11 +1233,11 @@ Team ownership of Control Points is randomized at the start of each round."
 "TF2c_OptionCategory_Language"			"IDIOMA"
 "TF2c_OptionCategory_Voice"				"VOZ"
 
-"TF2c_OptionCategory_Combat"			"COMBAT"
+"TF2c_OptionCategory_Combat"			"COMBATE"
 "TF2c_OptionCategory_HUD"				"HUD"
-"TF2c_OptionCategory_ViewModel"			"VIEWMODEL"
-"TF2c_OptionCategory_ClassSpecific"		"CLASS SPECIFIC"
-"TF2c_OptionCategory_Performance"		"PERFORMANCE"
+"TF2c_OptionCategory_ViewModel"			"Modelo em primeira pessoa"
+"TF2c_OptionCategory_ClassSpecific"		"Específico de classe"
+"TF2c_OptionCategory_Performance"		"Otimização"
 "TF2c_OptionCategory_Misc"				"MISC"
 "TF2c_OptionCategory_Replay"			"REPLAY"
 "TF2c_OptionCategory_DemoSupport"		"DEMO"
@@ -1246,27 +1246,27 @@ Team ownership of Control Points is randomized at the start of each round."
 "TF2c_OptionCategory_CustomizationMultiplayer"			"Customization"
 "TF2c_OptionCategory_Network"							"REDE"
 
-"TF2c_MuteUnfocused"					"Mute unfocused"
+"TF2c_MuteUnfocused"					"Mutar na perca de foco"
 
 "TF2c_Options_Custom"					"Custom"
 
 "TF2c_ChatFilterSettingsButton"			"Abrir configurações"
 
-"GameUI_CloseWithoutSaving"				"Close without Saving"
-"GameUI_CloseWithoutSavingText" 		"Are you sure you want to close?\n All unsaved changes will be lost!"
-"GameUI_Legacy"							"Legacy Menu"
-"GameUI_Effect_Detail"          		"Effect detail"
-"GameUI_VeryLow"               			"Very Low"
+"GameUI_CloseWithoutSaving"			    "Fechar sem salvar"
+"GameUI_CloseWithoutSavingText" 		"Tem certeza de que quer fechar?\n Todas as mudanças não salvas serão perdidas!"
+"GameUI_Legacy"							"Menu legado"
+"GameUI_Effect_Detail"          		"Efeito de detalhes"
+"GameUI_VeryLow"               			"Muito baixo"
 "GameUI_Off"               				"Off"
 "GameUI_Everyone"               		"Todos"
 "GameUI_FriendsOnly"               		"Apenas amigos"
 
-"GameUI_Restart"						"Restart required"
-"GameUI_RestartText"					"Some changes you have made require the game to be restarted:"
-"GameUI_OptionsRestart_Revert"			"Revert changes"
+"GameUI_Restart"						"Reinício necessário"
+"GameUI_RestartText"					"Algumas mudanças que você fez requerem que o jogo seja reiníciado:"
+"GameUI_OptionsRestart_Revert"			"Reverter mudanças"
 
 // Combat
-"TF2C_Option_DamageFeedback"				"Enable damage feedback"
+"TF2C_Option_DamageFeedback"				"Tocar um som ao atingir um inimigo"
 "TF2C_Tooltip_DamageFeedback"				"Damage feedback plays contextual sounds when dealing or taking different types of damage"
 "TF2C_Option_DamageFeedbackOutgoing"		"Enable outgoing damage feedback"
 "TF2C_Tooltip_DamageFeedbackOutgoing"		"Outgoing damage feedback sounds play when dealing damage to enemies"
@@ -1287,12 +1287,12 @@ Team ownership of Control Points is randomized at the start of each round."
 "TF_CombatTextDropShadow_Tip"       "If set, shows drop shadow on combat text."
 
 // ClassSpecific
-"TF_CyclopsDoubleTap"             	"DEMOMAN: Enable Cyclops Double-Tap"
-"TF_CyclopsDoubleTap_Tip"        	"If set, Cyclops grenades will require a second click to detonate, instead of letting go of primary fire."
-"TF_SapperAwareness"                "ENGINEER: Sapper awareness"
-"TF_SapperAwareness_Tip"            "If set, sapper warning on buildings alerts in an alternative color."
-"TF_SniperBell"					    "SNIPER: Play Sound on Full Charge"
-"TF_SniperBell_Tip"					"Play a sound when the Sniper rifle is fully charged."
+"TF_CyclopsDoubleTap"             	"DEMOMAN: Habilitar clique duplo do Cyclops"
+"TF_CyclopsDoubleTap_Tip"        	"Se habilitado, Granadas do Cyclops requerem um segundo clique para detonar, ao invés de soltar o botão de dísparo primário."
+"TF_SapperAwareness"                "ENGINEER: Consciência do Sabotador"
+"TF_SapperAwareness_Tip"            "Se habilitado, o aviso de sabotador em construções alertam em uma cor alternativa."
+"TF_SniperBell"					    "SNIPER: Tocar som de carregamento total"
+"TF_SniperBell_Tip"					"Tocar um som quando o Rifle de Precisão está totalmente carregado."
 "TF_ZoomSensitivityRatio"			"SNIPER: Zoom Sensitivity Ratio"
 "TF_ZoomSensitivityRatio_Tip"		"Adjusts scoped zoom sensitivity."
 "TF_SpywalkInverted"				"SPY: Use Spywalk by default"
@@ -1303,8 +1303,8 @@ Team ownership of Control Points is randomized at the start of each round."
 "TF_AvoidBecomingVIP_Tip"			"If set, you won't be usually considered when the game chooses a VIP; you can be still picked if everyone has this option set or if you are voted"
 
 // HUD
-"TF_LoadoutGrid"                  "Enable loadout grid"
-"TF_LoadoutGrid_Tip"              "If set, the weapon loadout page will be displayed as a grid"
+"TF_LoadoutGrid"                  "Habilitar equipamentos em grade "
+"TF_LoadoutGrid_Tip"              "Se habilitado, armas na pagina de equipamentos será exibido em grade"
 "TF_HighlightAmmo"				  "Display glow outlines on dropped weapons"
 "TF_HighlightAmmo_Tip"			  "If set, dropped weapons will have glow outlines to highlight their locations"
 "TF_MessageAlert"				  "Enable chat message sound"
@@ -1312,12 +1312,12 @@ Team ownership of Control Points is randomized at the start of each round."
 "TF_MessageVolume"				  "Chat message sound volume"
 "TF_MessageVolume_Tip"			  "Sets the volume of chat message sounds"
 "TF_ScoreBoardShowAvatars"		  "Exibir avatares no placar"
-"TF_ShowCurrentWeapon"		  	  "Display currently equipped weapon"
+"TF_ShowCurrentWeapon"		  	  "Mostrar a arma equipada atual"
 "TF_OverlayToastPosition"         "Position of Steam overlay notifications"
-"TF_TopLeft"                      "Top-left"
-"TF_TopRight"                     "Top-right"
-"TF_BottomLeft"                   "Bottom-left"
-"TF_BottomRight"                  "Bottom-right"
+"TF_TopLeft"                      "Superior-esquerdo"
+"TF_TopRight"                     "Superior-direito"
+"TF_BottomLeft"                   "Inferior-esquerdo"
+"TF_BottomRight"                  "Inferior-direito"
 "TF_OverlayToastInsetHoriz"       "Horizontal inset of Steam notifications"
 "TF_OverlayToastInsetVert"        "Vertical inset of Steam notifications"
 "TF_TargetID_Floating_Health"	  "Target ID - Enable floating healthbar"
@@ -1336,19 +1336,19 @@ Team ownership of Control Points is randomized at the start of each round."
 "TF_DeathNoticeMax_Tip"           "Sets the max amount of death notice entries at the same time."
 "TF_DeathNoticeTime"              "Death Notice - Expiry time for entires (in seconds)"
 "TF_DeathNoticeTime_Tip"          "Sets the expiry time for death notice items."
-"TF_GlowEffects"				  "Use glow effects"
-"TF_GlowEffects_Tip" 			  "If set, glow effects will be enabled during the match for objectives like VIPs, Payload carts, and CTF intelligence briefcases."
+"TF_GlowEffects"				  "Exibir silhuetas"
+"TF_GlowEffects_Tip" 			  "Se habilitados, silhuetas serão ativadas durante partidas para objetivos como VIP, cargas explosivas, e maletas com inteligência."
 
 // ViewModel
 
-"TF_ViewModelFOV"				"Viewmodel Field of View"
-"TF_FlipViewModels"				"Flip Viewmodels"
-"TF_InvisibleArms"				"Use Invisible Arm Viewmodels"
-"TF_ViewModelOpacity"			"Viewmodel Opacity"
+"TF_ViewModelFOV"				"Campo de visão no modelo em primeira pessoa"
+"TF_FlipViewModels"				"inverter modelo em primeira pessoa"
+"TF_InvisibleArms"				"Usar braço invisível no modelo em primeira pessoa"
+"TF_ViewModelOpacity"			"Opacidade do modelo em primeira pessoa"
 
 // Misc
-"TF_ClassAutoKill"					"Force respawn after choosing player class"
-"TF_ClassAutoKill_Tip"				"If set, immediately forces respawn whenever you change class while out in the field.\n\nIf unset, change class on respawn."
+"TF_ClassAutoKill"					"Forçar ressurgimento depois de escolher uma classe"
+"TF_ClassAutoKill_Tip"				"Se habilitado, imediatamente força o ressurgimento quando você mudar de classe enquanto estiver em campo.\n\nIf unset, change class on respawn."
 "TF_ClassMenu_Music"				"Class selection menu music"
 "TF_StreamerMode"					"Habilitar modo de streamer"
 "TF_StreamerMode_Tip"				"Desativa o chat por texto e anonimiza o nome de todos os jogadores na partida"
@@ -1356,7 +1356,7 @@ Team ownership of Control Points is randomized at the start of each round."
 "TF_ModelMuzzleFlash_Tip"			"If set, muzzleflashes will use models instead of particles"
 
 // Voice
-"TF2c_Option_Proximity_Voice_Local"	"Enable Proximity Voice Chat."
+"TF2c_Option_Proximity_Voice_Local"	"Habilitar chat de voz em proximidade."
 
 // MULTIPLAYER
 
