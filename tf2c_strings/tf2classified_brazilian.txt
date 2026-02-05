@@ -205,21 +205,21 @@
 // Soldier
 "Tip_3_Count"	"12"
 // Generic
-"Tip_3_1"		"Press %voicemenu 0 0% to call for a Medic if you get hurt. Nearby Medics will be notified of your need."
-"Tip_3_2"		"As a Soldier, you can rocket jump to great heights by firing a rocket at your feet while jumping."
-"Tip_3_3"		"As a Soldier, crouch when preparing for a rocket jump in order to achieve maximum height."
-"Tip_3_4"		"As a Soldier, aim rockets at the feet of enemies to ensure they can't avoid the explosive damage."
-"Tip_3_5"		"As a Soldier, your rockets have strong knockback. Jostle enemies or knock them airborne!"
+"Tip_3_1"		"Pressione %voicemenu 0 0% para chamar um médico caso se machuque. Os médicos próximos serão notificados da sua necessidade."
+"Tip_3_2"		"Como um Soldier, você pode realizar um salto com foguete para alcançar grandes alturas disparando um foguete contra seus pés enquanto salta."
+"Tip_3_3"		"Como um Soldier, ao se preparar para um salto com foguete, agache-se para atingir a altura máxima."
+"Tip_3_4"		"Como um Soldier, aponte os foguetes para os pés dos inimigos para garantir que eles não consigam evitar o dano da explosão."
+"Tip_3_5"		"Como um Soldier, seus foguetes têm um forte efeito de repulsão. Empurre os inimigos ou lance-os para o ar!"
 // Stock
-"Tip_3_6"		"As a Soldier, make sure you keep your Rocket Launcher loaded. Press %reload% to reload it at any time."
-"Tip_3_7"		"As a Soldier, use your Shotgun to conserve rockets and avoid waiting for reload times in the middle of combat."
-"Tip_3_8"		"As a Soldier, use your Shovel to deal consistent close-range damage without having to worry about splash damage."
+"Tip_3_6"		"Como um Soldier, certifique-se de manter seu Lança-Foguetes carregado. Pressione %reload% para recarregá-lo a qualquer momento."
+"Tip_3_7"		"Como um Soldier, use sua espingarda para economizar foguetes e evitar esperar o tempo de recarga no meio do combate."
+"Tip_3_8"		"Como um Soldier, use sua pá para causar dano consistente a curta distância sem se preocupar com dano em área."
 // Death & Taxes
-"Tip_3_9"		"As a Soldier, the Gunboats greatly reduce health loss from rocket jumps. Use them when positioning and mobility are especially important."
-"Tip_3_10"		"As a Soldier, your R.P.G.'s rockets shoot in an arc, and can land over enemy cover. Be sure to aim your rockets carefully!"
+"Tip_3_9"		"Como um Soldier, as Canhoneiras reduzem significativamente a perda de saúde causada por saltos com foguete. Use-as quando posicionamento e mobilidade forem especialmente importantes."
+"Tip_3_10"		"Como um Soldier, os foguetes do seu R.P.G são disparados em arco e podem atingir alvos inimigos. Certifique-se de mirar seus foguetes com cuidado!"
 // Double Down
-"Tip_3_11"		"As a Soldier, your Admiralty Anchor's earthquake damage scales with the longer it's been held. Deploy it at the peak of a rocket jump!"
-"Tip_3_12"		"As a Soldier, equipping the Admiralty Anchor leaves you prone to taking critical hits from projectiles while airborne. Take to the skies carefully."
+"Tip_3_11"		"Como um Soldier, o dano sísmico da sua Âncora do Almirantado aumenta quanto mais tempo ela é mantida carregada. Use-a no pico de um salto com foguete!"
+"Tip_3_12"		"Como um Soldier, equipar a Âncora do Almirantado deixa você vulnerável a danos críticos de projéteis enquanto estiver no ar. Voe com cautela."
 
 // Demoman
 "Tip_4_Count"	"15"
@@ -236,7 +236,7 @@
 // Death & Taxes
 "Tip_4_9"		"As a Demoman, throw your Dynamite Pack onto busy Control Points in order to clear off any enemies."
 "Tip_4_10"		"As a Demoman, your Dynamite Pack can be disabled by enemy Engineers. Be mindful when hurling it into Sentry Gun nests."
-"Tip_4_11"		"As a Demoman, the Gunboats greatly reduce health loss from explosive jumps. Use them when positioning and mobility are especially important."
+"Tip_4_11"		"As a Demoman, the Canhoneiras greatly reduce health loss from explosive jumps. Use them when positioning and mobility are especially important."
 "Tip_4_12"		"As a Demoman, the Mine Layer shoots proximity Mines that automatically detonate if an enemy gets too close. Use it for an automated defense!"
 // Double Down
 "Tip_4_13"		"As a Demoman, EMP grenades shot from the Cyclops will only detonate when you let them. Use this to time an explosive jump or set off a deadly trap!"
@@ -499,7 +499,7 @@
 "TF_Weapon_Huntsman"		"O Caçador"
 "TF_Weapon_Huntsman_Desc"	"Whatever happened to chivalry?"
 // Gunboats
-"TF_Weapon_Gunboats"				"Cacnhoneiras"
+"TF_Weapon_Gunboats"				"Canhoneiras"
 "TF_Weapon_Gunboats_Desc_Soldier"	"Lead shoe inserts! Perfect for anyone trying to cheat on the army physical."
 "TF_Weapon_Gunboats_Desc_Demoman"	"Boots so good, you won't even worry about the screws drilled into your feet."
 
@@ -572,7 +572,7 @@
 "TF_Weapon_Rejuvenator"			"Rejuvenescedor"
 "TF_Weapon_Rejuvenator_Desc"	"Do try and keep it out of your mouth and eyes."
 // Admiralty Anchor
-"TF_Weapon_AdmiraltyAnchor"			"Admiralty Anchor"
+"TF_Weapon_AdmiraltyAnchor"			"Âncora do Almirantado"
 "TF_Weapon_AdmiraltyAnchor_Desc"	"I will not tolerate any crass jokes about the Navy in my unit."
 // Derby Cane
 "TF_Weapon_DerbyCane"		"Derby Cane"
