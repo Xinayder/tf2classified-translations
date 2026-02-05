@@ -196,11 +196,11 @@
 "Tip_2_5"		"Como um Sniper, use a submetralhadora para lidar com inimigos próximos."
 "Tip_2_6"		"Como um Sniper, a sua kukri pode ser útil para lidar com emboscadas surpresas."
 // Death & Taxes
-"Tip_2_7"		"As a Sniper, the Huntsman can be used for more offensive close-range combat, at the cost of accuracy."
-"Tip_2_8"		"As a Sniper, the Huntsman will lose accuracy if it's pulled back for longer than 5 seconds. You can reset it by pressing %attack2%."
-"Tip_2_9"		"As a Sniper, your Hunting Revolver is a great mid-range option. Use it to deal high damage while quickly moving in and out of the frontline."
-"Tip_2_10"		"As a Sniper, you move much faster while focused with the Hunting Revolver compared to your other primary weapons."
-"Tip_2_11"		"As a Sniper, your Fishwhacker can knock back groups of enemies and cause them to bleed. Use it to push intruders away."
+"Tip_2_7"		"Como um Sniper, O Caçador pode ser usado para combates ofensivos de curta distância, ao custo de menor precisão."
+"Tip_2_8"		"Como um Sniper, O Caçador perderá precisão se for puxado para trás por mais de 5 segundos. Você pode redefinir isso pressionando %attack2%."
+"Tip_2_9"		"Como um Sniper, seu Revólver de Caça é uma ótima opção de médio alcance. Use-o para causar alto dano enquanto se move rapidamente para dentro e para fora da linha de frente."
+"Tip_2_10"		"Como um Sniper, o Revólver de Caça faz você se mover muito mais rápido e concentrado do que com suas outras armas principais."
+"Tip_2_11"		"Como um Sniper, seu Peixorrete pode repelir grupos de inimigos e fazê-los sangrar. Use-o para afastar intrusos."
 
 // Soldier
 "Tip_3_Count"	"12"
@@ -520,8 +520,8 @@
 "TF_Weapon_HuntingRevolver"			"Revólver de Caça"
 "TF_Weapon_HuntingRevolver_Desc"	"Made for a more offensive approach."
 // Fishwhacker
-"TF_Weapon_Fishwhacker"			"Fishwhacker"
-"TF_Weapon_Fishwhacker_Desc"	"Hold 'er steady, mate. She tends to throw splinters."
+"TF_Weapon_Fishwhacker"			"Peixorrete"
+"TF_Weapon_Fishwhacker_Desc"	"Segura ela firme, camarada. Ela tem tendência a soltar farpas."
 // Tranquilizer Gun
 "TF_Weapon_TranquilizerGun"			"Arma Tranquilizante"
 "TF_Weapon_TranquilizerGun_Desc"	"In your dreams, chéri."
