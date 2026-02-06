@@ -10,8 +10,8 @@
 // Channels
 "Channel_All"			"TODOS"
 "Channel_Team"			"EQUIPE"
-"Switch_All"			"(TAB to switch to TEAM)"
-"Switch_Team"			"(TAB to switch to ALL)"
+"Switch_All"			"(TAB para enviar mensagens para a EQUIPE)"
+"Switch_Team"			"(TAB para enviar mensagens para TODOS)"
 
 // Chat Prefixes
 "Chat_All"				"%s1: %s2"
@@ -42,10 +42,10 @@
 "TF_SentryReport_Message"			"Would you like to allow sending anonymous error reports to the Team Fortress 2 Classified team?"
 
 // VIP voting
-"Vote_ChangeCivilian"				"Change VIP"
-"TF_vote_change_civilian"			"Choose player %s1 to be the VIP?"
-"TF_vote_change_civilian_caller"	"Player %s1 wants to be the VIP."
-"TF_vote_passed_change_civilian"	"The VIP will be player: %s1..."
+"Vote_ChangeCivilian"				"Mudar VIP"
+"TF_vote_change_civilian"			"Escolher o(a) jogador(a) %s1 para ser o VIP?"
+"TF_vote_change_civilian_caller"	"O(a) jogador(a) %s1 deseja ser o VIP."
+"TF_vote_passed_change_civilian"	"O VIP será o(a) jogador(a): %s1..."
 
 // ----------------------------------------------------------------
 // Teams
@@ -60,7 +60,7 @@
 "TF_Other_Name"					"OUTRA"
 
 // Disguise Kit global disguise
-"Hud_Menu_Disguise_GlobalTeam"	"Global Disguise: Every enemy will see you as their own team."
+"Hud_Menu_Disguise_GlobalTeam"	"Disfarce global: todos os inimigos verão você como um aliado."
 
 // ----------------------------------------------------------------
 // Classes
@@ -116,7 +116,7 @@
 "TF_playerid_teleporter_no_entrance"	"  -  Não há uma entrada correspondente"
 "TF_playerid_teleporter_no_exit"		"  -  Não há uma saída correspondente"
 "TF_playerid_object_recharging"			"  -  Recarregando: %s1%"
-"TF_playerid_object_flooded"			"Flooded"
+"TF_playerid_object_flooded"			"Inundado"
 "TF_playerid_carrying"					"Carregando: %s1"
 "TF_playerid_carrying_lvl"				"Carregando: %s1 ( Nível %s2 )"
 
@@ -499,7 +499,7 @@
 "TF_Weapon_Huntsman"		"O Caçador"
 "TF_Weapon_Huntsman_Desc"	"Whatever happened to chivalry?"
 // Gunboats
-"TF_Weapon_Gunboats"				"Cacnhoneiras"
+"TF_Weapon_Gunboats"				"Canhoneiras"
 "TF_Weapon_Gunboats_Desc_Soldier"	"Lead shoe inserts! Perfect for anyone trying to cheat on the army physical."
 "TF_Weapon_Gunboats_Desc_Demoman"	"Boots so good, you won't even worry about the screws drilled into your feet."
 
@@ -520,16 +520,16 @@
 "TF_Weapon_HuntingRevolver"			"Revólver de Caça"
 "TF_Weapon_HuntingRevolver_Desc"	"Made for a more offensive approach."
 // Fishwhacker
-"TF_Weapon_Fishwhacker"			"Fishwhacker"
+"TF_Weapon_Fishwhacker"			"Peixorrete"
 "TF_Weapon_Fishwhacker_Desc"	"Hold 'er steady, mate. She tends to throw splinters."
 // Tranquilizer Gun
 "TF_Weapon_TranquilizerGun"			"Arma Tranquilizante"
 "TF_Weapon_TranquilizerGun_Desc"	"In your dreams, chéri."
 // Dynamite Pack
-"TF_Weapon_DynamitePack"		"Dynamite Pack"
+"TF_Weapon_DynamitePack"		"Pacote de Dinamite"
 "TF_Weapon_DynamitePack_Desc"	"Ye'll be in bits tomorrow."
 // Coilgun
-"TF_Weapon_Coilgun"			"Coilgun"
+"TF_Weapon_Coilgun"			"Canhão Eletromagnético"
 "TF_Weapon_Coilgun_Desc"	"No steak, but a whole heap o' sizzle."
 // Mine Layer
 "TF_Weapon_MineLayer"		"Mine Layer"
@@ -555,7 +555,7 @@
 "TF_Weapon_AntiAircraftCannon"		"Canhão Antiaéreo"
 "TF_Weapon_AntiAircraftCannon_Desc"	"Which piece of you should Heavy send home to momma?"
 // PDA: Jump Pad
-"TF_Weapon_PDAJumpPad"		"PDA: Jump Pad"
+"TF_Weapon_PDAJumpPad"		"PDA: Saltador"
 "TF_Weapon_PDAJumpPad_Desc"	"Trust me, feller. This one'll blow you away."
 // Harvester
 "TF_Weapon_Harvester"		"Ceifadora"
@@ -598,7 +598,7 @@
 "TF_Weapon_HealGrenadeLauncher"		"Lança-Granadas de Cura"
 "TF_Weapon_LunchBox"				"Lanche"
 "TF_Weapon_PDA"						"PDA"
-"TF_Weapon_ProximityMineLauncher"	"Proximity Mine Launcher"
+"TF_Weapon_ProximityMineLauncher"	"Lançador de Minas de Proximidade"
 "TF_Weapon_Scythe"					"Foice"
 "TF_Weapon_Syringe"					"Seringa"
 "TF_Weapon_Taser"					"Taser"
@@ -624,13 +624,13 @@
 // Building Status
 "Building_hud_hauling"				"Hauling..."
 "Building_hud_upgrading"			"Aprimorando..."
-"Building_hud_jumppad_a_not_built"	"Jump Pad A\nNot Built"
-"Building_hud_jumppad_b_not_built"	"Jump Pad B\nNot Built"
+"Building_hud_jumppad_a_not_built"	"Saltador A\nNão construído"
+"Building_hud_jumppad_b_not_built"	"Saltador B\nNão construído"
 
 // Jump Pad
-"TF_Object_Jump"					"Jump Pad"
-"TF_Object_Jump_A"					"Jump Pad A"
-"TF_Object_Jump_B"					"Jump Pad B"
+"TF_Object_Jump"					"Saltador"
+"TF_Object_Jump_A"					"Saltador A"
+"TF_Object_Jump_B"					"Saltador B"
 "TF_JumpPad_Mode_A"					"A"
 "TF_JumpPad_Mode_B"					"B"
 
@@ -642,15 +642,15 @@
 "Attrib_RocketJumpDmgReduction"		"%s1% de dano explosivo sofrido por saltos com foguete"
 "Attrib_Scattergun_HasKnockback"	"Alvo e atirador são arremessados para trás"
 
-"Attrib_RocketGravity"								"Rockets travel in an arc"
-"Attrib_CreatesEarthquakeFallDamage"				"Create earthquake upon taking fall damage while active"
-"Attrib_TakeProjectileCritsAirborne"				"On Wearer: Take crits from projectiles while airborne"
-"Attrib_Gravity_Active_Increased"					"+%s1% gravity while active"
-"Attrib_TeleporterJumpPad"							"Replaces Teleporter Entrance and Exit with Jump Pads"
+"Attrib_RocketGravity"								"Os projéteis fazem uma trajetória em arco"
+"Attrib_CreatesEarthquakeFallDamage"				"Causa um terremoto ao aterrissar enquanto estiver selecionado"
+"Attrib_TakeProjectileCritsAirborne"				"Ao vestir: recebe críticos de projéteis enquanto estiver no ar"
+"Attrib_Gravity_Active_Increased"					"+%s1% de gravidade enquanto estiver selecionado"
+"Attrib_TeleporterJumpPad"							"Substitui os Teletransportadores por Saltadores"
 "Attrib_Mod_Horizontal_Spread"						"Bullets have a wide, horizontal spread"
 "Attrib_ApplySelfKnockback"							"Applies reverse self-knockback on a shot"
 "Attrib_WeaponEnemyKnockback_Bonus"					"+%s1% knockback on enemy"
-"Attrib_LifestealCrit"								"On Hit: Steal health from your victim while meter is full"
+"Attrib_LifestealCrit"								"Ao acertar: rouba vida do inimigo enquanto o medidor estiver cheio"
 "Attrib_FlatHealOnAfterburn_Active"					"+%s1 health gain per afterburn tick while active"
 "Attrib_RememberTargetsRemainingAfterburn"			"Tracks remaining afterburn off dead targets"
 "Attrib_OnDeathRemoveTargetsAfterburn"				"Inimigos em chamas são extinguidos ao morrer"
@@ -659,26 +659,26 @@
 "Attrib_GainStoredCritsOnHit"						"On Hit: Store %s1 critical hit"
 "Attrib_AlwaysCritsFullStoredCrits"					"This weapon cannot use stored crits unless at full capacity"
 "Attrib_LoseStoredCritsOnMiss"						"On Miss: Lose %s1 stored critical hit"
-"Attrib_MeleeTakenBecomesCritWearer"				"On Wearer: Take crits from melee damage"
-"Attrib_MoveSpeed_Bonus_Cloaked"					"+%s1% faster move speed while cloaked"
-"Attrib_LoseCloakOnDamage"							"-%s1% cloak when damaged under cloak"
+"Attrib_MeleeTakenBecomesCritWearer"				"Ao vestir: recebe críticos de dano corpo a corpo"
+"Attrib_MoveSpeed_Bonus_Cloaked"					"+%s1% de velocidade de movimento enquanto estiver camuflado"
+"Attrib_LoseCloakOnDamage"							"-%s1% de camuflagem ao receber dano enquanto estiver camuflado"
 "Attrib_TranqOnHit"									"On Hit: Color blind victim and slow their weapon and movement speed for %s1s"
 "Attrib_FishwhackerSweep"							"Deals knockback to nearby enemies"
 "Attrib_SelfKnockbackAffectedByDamageBoostModifier"	"Self-Knockback is affected by damage boost"
 "Attrib_ApplySelfKnockbackSwing"					"Applies reverse self-knockback on a swing"
 "Attrib_AirblastSelfKnockback"						"Airblast deals knockback on user"
-"Attrib_ProximityMine"								"Proximity mines explode near enemies"
+"Attrib_ProximityMine"								"Minas de proximidade explodem perto dos inimigos"
 "Attrib_AltFire_FizzleMines"						"Alt-Fire: Fizzle proximity mines"
 "Attrib_NoStickyChargeTime"							"No Stickybomb charge time"
 "Attrib_BlastSplashDamage_Decreased"				"%s1% explosion splash damage"
-"Attrib_BurningTargetsChargeCrit"					"Burning victims fill crit meter while active"
-"Attrib_LimitedRange"								"Weapon has limited range"
+"Attrib_BurningTargetsChargeCrit"					"Inimigos em chamas enchem o medidor de críticos enquanto estiver selecionado"
+"Attrib_LimitedRange"								"Possui alcance limitado"
 "Attrib_GainStoredCritsOnKill"						"On Kill: Store %s1 critical hit"
 "Attrib_HealOnKillCrit"								"+%s1 health restored on crit kill"
-"Attrib_InstantReloadOnDirectHit"					"On Direct Hit: Reload up to %s1 ammo instantly"
-"Attrib_InstantReloadOnHit"							"On Hit: Reload up to %s1 ammo instantly"
-"Attrib_InstantReloadOnDirectHitKill"				"On Direct Hit Kill: Reload up to %s1 ammo instantly"
-"Attrib_InstantReloadOnKill"						"On Kill: Reload up to %s1 ammo instantly"
+"Attrib_InstantReloadOnDirectHit"					"Recarrega até %s1 de munição instantâneamente com acertos diretos"
+"Attrib_InstantReloadOnHit"							"Recarrega até %s1 de munição instantâneamente ao acertar um inimigo"
+"Attrib_InstantReloadOnDirectHitKill"				"Recarrega até %s1 de munição instantâneamente ao eliminar um inimigo com um acerto direto"
+"Attrib_InstantReloadOnKill"						"Recarrega até %s1 de munição instantâneamente ao eliminar um inimigo"
 "Attrib_ViewPunchOnHit"								"On Hit: Shake victim's view"
 "Attrib_FlinchDecrease"								"%s1% less flinching"
 "Attrib_FlinchIncrease"								"+%s1% more flinching"
@@ -687,19 +687,19 @@
 "Attrib_FlinchDecreaseAiming"						"%s1% less flinching when aiming"
 "Attrib_FlinchIncreaseAiming"						"+%s1% more flinching when aiming"
 "Attrib_CritVsBleed"								"100% de críticos contra inimigos sangrando"
-"Attrib_MinicritWhileDisguised"						"Attack deals mini-crits while you are disguised"
-"Attrib_TakeMinicritsWhileDisguised"				"Suffer mini-crit damage while disguised"
-"Attrib_ObjectivesGiveMiniCrits"					"Deals mini-crits to enemies capturing, defending, or carrying objectives"
+"Attrib_MinicritWhileDisguised"						"Ataques causam minicrits enquanto estiver disfarçado"
+"Attrib_TakeMinicritsWhileDisguised"				"Dano recebido causa minicrits ao usuário enquanto estiver disfarçado"
+"Attrib_ObjectivesGiveMiniCrits"					"Causa minicrits a inimigos capturando, defendendo ou carregando objetivos"
 "Attrib_HeadshotIsMinicrit"							"Tiros na cabeça causam minicríticos"
 "Attrib_BuildingsMaxLevel"							"Buildings have %s1 max level"
-"Attrib_UpgradeCost"								"Buildings require %s1 metal to upgrade"
-"Attrib_Dispenser_Build_Rate"						"Increases Dispenser build speed by %s1%"
-"Attrib_JumpPad_Build_Rate"							"Increases Jump Pad build speed by %s1%"
+"Attrib_UpgradeCost"								"Construções requerem %s1 de metal para aprimorar"
+"Attrib_Dispenser_Build_Rate"						"Aumenta a velocidade de construção de Fornecedores em %s1%"
+"Attrib_JumpPad_Build_Rate"							"Aumenta a velocidade de construção de Saltadores em %s1%"
 "Attrib_DispenserBuildCost"							"%s1% Dispenser build cost"
 "Attrib_SentrygunBuildCost"							"%s1% Sentry Gun build cost"
 "Attrib_JumpPadBuildCost"							"%s1% Jump Pad build cost"
-"Attrib_NoPrimaryAmmoFromDispensersAlways"			"Dispensers do not give ammo"
-"Attrib_MetalOnSentryKill"							"On Sentry Kill: +%s1 metal"
+"Attrib_NoPrimaryAmmoFromDispensersAlways"			"Fornecedores não reabastecem munição"
+"Attrib_MetalOnSentryKill"							"+%s1 metal ao matar um inimigo com uma Sentinela"
 "Attrib_SentryKnockback_Increased"					"Sentry Gun deals +%s1% knockback"
 "Attrib_SentryKnockback_Decreased"					"Sentry Gun deals %s1% knockback"
 "Attrib_SentryTurnRate_Increased"					"Sentry Gun turns +%s1% faster"
@@ -723,37 +723,37 @@
 "Attrib_HealingReceivedActivePenalty"				"%s1% health from healers while active"
 "Attrib_HealthFromPacks_Active_Increased"			"+%s1% health from packs while active"
 "Attrib_HealthFromPacks_Active_Decreased"			"%s1% health from packs while active"
-"Attrib_DamageDelaysRegeneration"					"Taking damage delays HP regen by %s1s"
-"Attrib_DestroyGrenadesDetonateOwn"					"Explosion destroys enemy grenades and detonates your own"
+"Attrib_DamageDelaysRegeneration"					"Regeneração de vida atrasa em %s1s ao receber dano"
+"Attrib_DestroyGrenadesDetonateOwn"					"Explosões destroem granadas inimigas e detonam os seus explosivos"
 "Attrib_HoldFirePreventDetonation"					"Hold Fire: Prevent grenade detonation"
 "Attrib_CritAirborneEnemies"						"100% de críticos contra inimigos no ar"
-"Attrib_ModCritAirborneDirectHitOnly"				"Crits airborne enemies on direct hit only"
+"Attrib_ModCritAirborneDirectHitOnly"				"Críticos contra inimigos no ar apenas com acertos diretos"
 "Attrib_ObjectivesGiveCrits"						"100% de críticos contra inimigos capturando, defendendo ou carregando objetivos"
 "Attrib_AddAmmoOnDirectHit"							"On Direct Hit: Gain %s1 ammo"
-"Attrib_AddAmmoOnDirectHitKill"						"On Direct Hit Kill: Gain %s1 ammo"
-"Attrib_AddAmmoOnKill"								"Ao matar: ganha %s1 de munição"
+"Attrib_AddAmmoOnDirectHitKill"						"Ganha %s1 de munição ao matar um inimigo com um acerto direto"
+"Attrib_AddAmmoOnKill"								"Ganha %s1 de munição ao matar um inimigo"
 "Attrib_MinicritVsWet"								"100% de minicrits contra inimigos molhados"
 "Attrib_TakeMinicritsProjectileAirborne"			"Recebe minicrits de projéteis enquanto estiver no ar"
 "Attrib_HealOnSmack"								"Teammates hit while at maximum charge will be fully healed"
 "Attrib_MultDamageCrit"								"Dano causado por acertos críticos %s1% maior"
-"Attrib_DropTeamHealthPackOnKill"					"Drops a team healthpack on kill"
+"Attrib_DropTeamHealthPackOnKill"					"Ao matar: um kit médico aparece para a sua equipe"
 "Attrib_PassiveAmmoHolstered"						"Passively reloads ammo while holstered"
-"Attrib_Backstab"									"Attack an enemy from behind to backstab them for a one-hit kill"
+"Attrib_Backstab"									"Dê uma facada nas costas de um inimigo para matá-los com um único acerto"
 "Attrib_UpgradeRepairBuildings"						"Aprimora, repara e acelera a construção de construções aliadas ao acertar"
 "Attrib_AltFire_DetonateStickybombs"				"Disparo-alt: detona todas as Stickybombs"
 "Attrib_AltFire_Airblast"							"Disparo-alt: solta uma rajada de ar que empurra inimigos e projéteis, além de extinguir aliados em chamas."
 "Attrib_AltFire_Cloak"								"Disparo-alt: camuflar-se"
-"Attrib_SapBuildings"								"Disables and slowly destroys enemy buildings\nDoes not remove disguise when used"
+"Attrib_SapBuildings"								"Desativa e destrói lentamente as construções inimigas\nNão remove o disfarce quando usado"
 "Attrib_ReloadNotActive"							"This weapon will reload when not active"
 "Attrib_Sandvich"									"Coma para recuperar até 120 de vida\nDisparo-alt: compartilha um Sandviche com um aliado (cura 50% de vida)"
 "Attrib_AltFire_MinicritBoost"						"Disparo-alt: fornece um bônus de minicrits a um aliado"
-"Attrib_SplitsIntoBomblets"							"Splits into 4 small bomblets upon exploding"
+"Attrib_SplitsIntoBomblets"							"Divide-se em 4 bombas menores ao explodir"
 "Attrib_DisabledByWrench"							"Pode ser desarmado por Chaves Inglesas"
 "Attrib_Coilgun"									"Fully charged shots ricochet off walls, and explode in your hand when overcharged"
 "Attrib_DamageAffectedByCharge"						"Damage is affected by current charge"
-"Attrib_JumpPadNoUpgrade"							"Jump Pads cannot be upgraded"
-"Attrib_AltFire_HasteBoost"							"Alt-Fire: Give haste boost to a teammate"
-"Attrib_AltFire_UberBubble"							"Disparo-alt: Lança um dispositivo que fornece invulnerabilidade em área"
+"Attrib_JumpPadNoUpgrade"							"Saltadores não podem ser aprimorados"
+"Attrib_AltFire_HasteBoost"							"Disparo-alt: aumenta temporariamente a velocidade de movimento de um aliado"
+"Attrib_AltFire_UberBubble"							"Disparo-alt: lança um dispositivo que fornece invulnerabilidade em área"
 
 // ----------------------------------------------------------------
 // Map strings
@@ -798,9 +798,9 @@ If BLU delivers the Suitcase Device, the gates timer will count down from 60 sec
 
 // 4dom_krepost
 "dom_krepost_description"	"Objective:
-To win, each team must capture and hold the currently active Control Point to gain points.
+Para vencer, cada equipe deve capturar e manter sob controle o ponto de controle ativo para ganhar pontos.
 
-The active Control Point switches to a random team's base every 60 seconds.
+O ponto de controle ativo é trocado para uma base aleatória a cada 60 segundos.
 
 Other Notes:
 Contesting the Control Point stops the enemy from gaining points.
@@ -814,15 +814,15 @@ Honorable hand to sword combat only!"
 "Krepost_cap_grn"	"castelo da GRN"
 "Krepost_cap_ylw"	"castelo da YLW"
 
-"Krepost_attack_red"	"RED's gate is open!"
-"Krepost_attack_blu"	"BLU's gate is open!"
-"Krepost_attack_grn"	"GRN's gate is open!"
-"Krepost_attack_ylw"	"YLW's gate is open!"
+"Krepost_attack_red"	"O portão da RED está aberto!"
+"Krepost_attack_blu"	"O portão da BLU está aberto!"
+"Krepost_attack_grn"	"O portão da GRN está aberto!"
+"Krepost_attack_ylw"	"O portão da YLW está aberto!"
 
 // td_caper
-"Caper_cap_A"	"cap A, the Laser Tower"
-"Caper_cap_B"	"cap B, the Silos"
-"Caper_cap_C"	"cap C, the Sewer"
+"Caper_cap_A"	"a Torre de Laser"
+"Caper_cap_B"	"os Silos"
+"Caper_cap_C"	"o Esgoto"
 
 // vipr_2bridge
 "2Bridge_cap_A"	"a ponte da RED"
@@ -833,17 +833,17 @@ Honorable hand to sword combat only!"
 "Drizzle_cap_B"	"the BLU Mine Entrance"
 
 // dom_railway
-"Railway_cap_A"	"cap A, the Garage"
+"Railway_cap_A"	"a Garagem"
 "Railway_cap_B"	"cap B, the Loading Hall"
 "Railway_cap_C"	"cap C, the Stockyard"
 
 // dom_sawtooth
 "Sawtooth_cap_A"	"cap A, the Lookout"
 "Sawtooth_cap_B"	"cap B, the Sawmill"
-"Sawtooth_cap_C"	"cap C, the Radio Tower"
+"Sawtooth_cap_C"	"a Torre de Rádio"
 
 // td_sunnyside
-"Sunnyside_cap_A"	"cap A, the Barns"
+"Sunnyside_cap_A"	"os Celeiros"
 "Sunnyside_cap_B"	"cap B, the Tanks"
 "Sunnyside_cap_C"	"cap C, the Coops"
 
@@ -856,8 +856,8 @@ Honorable hand to sword combat only!"
 "Avanti_cap_4"				"the Front Gates"
 
 // vipr_chopper
-"Chopper_cap_A"				"the RED Radar"
-"Chopper_cap_B"				"the BLU Radar"
+"Chopper_cap_A"				"o radar da RED"
+"Chopper_cap_B"				"o radar da BLU"
 
 // ----------------------------------------------------------------
 // Gamemodes
@@ -890,10 +890,10 @@ Honorable hand to sword combat only!"
 "Gametype_VIPRace_FourTeam"			"Corrida de VIPs (Quatro Equipes)"
 
 // Offline practice descriptions
-"TF_GameModeDesc_VIP"			"BLU escorts the Civilian to a control point. RED needs to stop them."
-"TF_GameModeDesc_VIPRace"		"Escort your Civilian to the finish line before the opposing team does."
-"TF_GameModeDesc_Domination"	"Capture points and hold them for as long as possible."
-"TF_GameModeDesc_Arena"			"Eliminate all enemy players or wait for the control point to unlock."
+"TF_GameModeDesc_VIP"			"A BLU deve escoltar o Civilian para um ponto de controle. A RED deve impedí-los."
+"TF_GameModeDesc_VIPRace"		"Escolte o Civilian da sua equipe até a linha de chegada antes da equipe inimiga."
+"TF_GameModeDesc_Domination"	"Capture os pontos de controle e mantenha-os sob controle pelo maior tempo possível."
+"TF_GameModeDesc_Arena"			"Elimine todos os jogadores ou aguarde a ativação do ponto de controle para capturá-lo."
 
 "TF_GameModeBrief_VIPRace"		"Corrida de VIPs - Ambas as equipes possuem VIPs"
 
@@ -902,22 +902,22 @@ Honorable hand to sword combat only!"
 // ----------------------------------------------------------------
 
 // Domination
-"default_dom_description"	"Objective:
-To win, each team must capture and hold Control Points to gain points. The more Control Points you own, the faster you gain points.
+"default_dom_description"	"Objetivo:
+Para ganhar, cada equipe deve capturar pontos de controle e ganha pontos ao mantê-los sob controle. Quanto mais pontos de controle estiverem sob o seu controle, mais rápido você ganhará pontos.
 
-Other Notes:
+Observações:
 Contesting a Control Point stops the enemy from gaining points using that Control Point.
 
-If your team is behind, capture all of the Control Points to gain a score bonus."
+Se a sua equipe esiver atrás em pontos, vocês ganharão um bônus de pontuação ao capturar todos os pontos de controle."
 
-"domination_setup_goal"	"Capture Control Points to gain points over time. Capturing more than one point will increase your chance of success!"
+"domination_setup_goal"	"Capture pontos de controle para ganhar pontos ao longo do tempo. Capturar mais de um ponto aumenta a sua chance de vitória!"
 
 // VIP
-"default_vip_description"	"Objective:
-BLU team wins by escorting the VIP to the Escape Zone before the time runs out. RED team wins by preventing him from reaching the escape zone.
+"default_vip_description"	"Objetivo:
+A equipe BLU ganha ao escoltar o VIP até a zona de fuga antes que o tempo acabe. A equipe RED ganha ao impedir que o VIP alcance a zona de escape.
 
-Other Notes:
-BLU team can freeze the capture progress of a Control Point if the VIP isn't present."
+Observações:
+A equipe BLU pode pausar o progresso de captura de um ponto de controle caso o VIP não esteja por perto."
 
 "vip_setup_goal_offense"	"Escolte o VIP até a zona de fuga."
 "vip_setup_goal_defense"	"Elimine o VIP da equipe inimiga para impedí-lo de alcançar a zona de fuga."
@@ -934,12 +934,12 @@ BLU team can freeze the capture progress of a Control Point if the VIP isn't pre
 "vipl_setup_goal_defense"	"Elimine o VIP da equipe inimiga ou impeça-o de atingir a zona de fuga para vencer."
 
 // VIP (Flags)
-"vip_bring_flag_here"	"Bring the device here!"
-"vip_bring_flag"		"Bring the device to the Control Room!"
+"vip_bring_flag_here"	"Traga o dispositivo até aqui!"
+"vip_bring_flag"		"Traga o dispositivo até a sala de controle!"
 
-"TF_VIP_TakeDeviceToPoint"		"Take the Device to the Control Room!"
-"TF_VIP_TeamDeviceReturned"		"The Device has returned! Go get it!"
-"TF_VIP_EnemyDeviceReturned"	"The Device has returned! Defend the drop site!"
+"TF_VIP_TakeDeviceToPoint"		"Leve o dispositivo à sala de controle!"
+"TF_VIP_TeamDeviceReturned"		"O dispositivo retornou à base! Vá buscá-lo!"
+"TF_VIP_EnemyDeviceReturned"	"O dispositivo inimigo retornou à base! Defenda o local de entrega!"
 
 // VIP Race
 "default_vipr_description"	"Objective:
@@ -1121,14 +1121,14 @@ Team ownership of Control Points is randomized at the start of each round."
 
 "TF_Friends_Title"					"Amigos (%friend_count%)"
 "TF_Friends_Status_InTF2C"			"Jogando TF2C"
-"TF_Friends_Status_Idle_InTF2C"		"Idle in TF2C"
+"TF_Friends_Status_Idle_InTF2C"		"Ausente em TF2C"
 "TF_Friends_Status_InMod"			"Jogando outra mod"
 "TF_Friends_Status_Idle_InMod"		"Ausente em outra mod"
 "TF_Friends_Status_InGame"			"Jogando outro jogo"
 "TF_Friends_Status_Idle"			"Ausente em outro jogo"
 "TF_Friends_Status_Online"			"Online"
 "TF_Friends_Status_Away"			"Ausente"
-"TF_Friends_Status_Offline"			"Offline"
+"TF_Friends_Status_Offline"			"Off-line"
 
 
 // ----------------------------------------------------------------
@@ -1136,26 +1136,26 @@ Team ownership of Control Points is randomized at the start of each round."
 // ----------------------------------------------------------------
 
 // Loadout gamemode indicator
-"TF_Loadout_Modifier_StockItemsOnly"		"Stock Items Only!"
+"TF_Loadout_Modifier_StockItemsOnly"		"Apenas itens padrão!"
 "TF_Loadout_Modifier_MedievalItemsOnly"		"\"Medieval\" Items Only!"
-"TF_Loadout_Modifier_RandomizerClasses"		"Randomized Classes!"
-"TF_Loadout_Modifier_RandomizerItems"		"Randomized Items!"
-"TF_Loadout_Modifier_RandomizerAttributes"	"Randomized Attributes!"
+"TF_Loadout_Modifier_RandomizerClasses"		"Classes aleatórias!"
+"TF_Loadout_Modifier_RandomizerItems"		"Itens aleatórios!"
+"TF_Loadout_Modifier_RandomizerAttributes"	"Atributos aleatórios!"
 "TF_Loadout_Modifier_RandomizerMayhem"		"Randomizer Mayhem!"
 "TF_Loadout_Modifier_CustomWeaponsEnabled"	"Custom Weapons Enabled!"
 
 // Item slot types
-"TF_Loadout_Slot_Invalid"		"Invalid"
+"TF_Loadout_Slot_Invalid"		"Inválido"
 "TF_Loadout_Slot_Primary"		"Primary"
 "TF_Loadout_Slot_Secondary"		"Secondary"
-"TF_Loadout_Slot_Melee"			"Melee"
-"TF_Loadout_Slot_Utility"		"Utility"
-"TF_Loadout_Slot_Building"		"Building"
+"TF_Loadout_Slot_Melee"			"Corpo a corpo"
+"TF_Loadout_Slot_Utility"		"Utilitário"
+"TF_Loadout_Slot_Building"		"Construção"
 "TF_Loadout_Slot_PDA1"			"PDA"
 "TF_Loadout_Slot_PDA2"			"PDA2"
 
 // Item slot vanity names
-"TF_Loadout_Slot_Secondary_Medic"	"Arma médica"
+"TF_Loadout_Slot_Secondary_Medic"	"Arma Médica"
 "TF_Loadout_Slot_Building_Spy"		"Sabotador"
 "TF_Loadout_Slot_PDA2_Spy"			"Relógio"
 
@@ -1177,7 +1177,7 @@ Team ownership of Control Points is randomized at the start of each round."
 "TF2c_KeyboardCategory_Movement"        "MOVIMENTAÇÃO"
 "TF2c_KeyboardCategory_Combat"          "COMBATE"
 "TF2c_KeyboardCategory_Communication"   "COMUNICAÇÃO"
-"TF2c_KeyboardCategory_UI"  		 	"IU"
+"TF2c_KeyboardCategory_UI"  		 	"INTERFACE"
 "TF2c_KeyboardCategory_Extra"			"EXTRA"
 "TF2c_UseDefaultsButton"				"Redefinir atalhos"
 "TF_ClassSkill_Spy_Spywalk"				"SPY: Spywalk"
@@ -1195,7 +1195,7 @@ Team ownership of Control Points is randomized at the start of each round."
 "TF_Spec_Next"							"Ver próximo alvo de espectador"
 "TF_Spec_Prev"							"Ver alvo de espectador anterior"
 "TF_Spec_Mode"							"Switch Spectate Mode"
-"TF_Use"								"Use (Interact)"
+"TF_Use"								"Usar (interagir)"
 "TF_Kill"								"Kill (Self)"
 "TF_Explode"							"Explode (Self)"
 
@@ -1216,7 +1216,7 @@ Team ownership of Control Points is randomized at the start of each round."
 "TF2c_MouseAccelerationStrength"		"Mouse Acceleration Strength"
 
 "TF2c_Options_Game"                     "JOGO"
-"TF2c_Options_Input"                    "INPUT"
+"TF2c_Options_Input"                    "ENTRADA"
 "TF2c_Options_Video"                    "VÍDEO"
 "TF2c_Options_Audio"                    "ÁUDIO"
 "TF2c_Options_MultiPlayer"              "MULTIJOGADOR"
@@ -1233,31 +1233,31 @@ Team ownership of Control Points is randomized at the start of each round."
 "TF2c_OptionCategory_Language"			"IDIOMA"
 "TF2c_OptionCategory_Voice"				"VOZ"
 
-"TF2c_OptionCategory_Combat"			"COMBAT"
+"TF2c_OptionCategory_Combat"			"COMBATE"
 "TF2c_OptionCategory_HUD"				"HUD"
 "TF2c_OptionCategory_ViewModel"			"VIEWMODEL"
 "TF2c_OptionCategory_ClassSpecific"		"CLASS SPECIFIC"
 "TF2c_OptionCategory_Performance"		"PERFORMANCE"
-"TF2c_OptionCategory_Misc"				"MISC"
+"TF2c_OptionCategory_Misc"				"OUTROS"
 "TF2c_OptionCategory_Replay"			"REPLAY"
 "TF2c_OptionCategory_DemoSupport"		"DEMO"
 "TF2c_OptionCategory_Communication"		"COMMS"
 
-"TF2c_OptionCategory_CustomizationMultiplayer"			"Customization"
+"TF2c_OptionCategory_CustomizationMultiplayer"			"Personalização"
 "TF2c_OptionCategory_Network"							"REDE"
 
-"TF2c_MuteUnfocused"					"Mute unfocused"
+"TF2c_MuteUnfocused"					"Silenciar sons enquanto estiver em segundo plano"
 
 "TF2c_Options_Custom"					"Custom"
 
-"TF2c_ChatFilterSettingsButton"			"Abrir configurações"
+"TF2c_ChatFilterSettingsButton"			"Configurar"
 
 "GameUI_CloseWithoutSaving"				"Close without Saving"
 "GameUI_CloseWithoutSavingText" 		"Are you sure you want to close?\n All unsaved changes will be lost!"
-"GameUI_Legacy"							"Legacy Menu"
-"GameUI_Effect_Detail"          		"Effect detail"
-"GameUI_VeryLow"               			"Very Low"
-"GameUI_Off"               				"Off"
+"GameUI_Legacy"							"Menu antigo"
+"GameUI_Effect_Detail"          		"Detalhes do efeito"
+"GameUI_VeryLow"               			"Muito baixo"
+"GameUI_Off"               				"Desligado"
 "GameUI_Everyone"               		"Todos"
 "GameUI_FriendsOnly"               		"Apenas amigos"
 
@@ -1356,20 +1356,20 @@ Team ownership of Control Points is randomized at the start of each round."
 "TF_ModelMuzzleFlash_Tip"			"If set, muzzleflashes will use models instead of particles"
 
 // Voice
-"TF2c_Option_Proximity_Voice_Local"	"Enable Proximity Voice Chat."
+"TF2c_Option_Proximity_Voice_Local"	"Ativar chat de voz por proximidade"
 
 // MULTIPLAYER
 
-"TF_MessageAlert"				    "Enable chat message sound"
-"TF_MessageAlert_Tip"			    "If set, a sound will play when a chat message is received"
+"TF_MessageAlert"				    "Tocar um som ao receber mensagens de texto"
+"TF_MessageAlert_Tip"			    "Ative para tocar um som quando uma mensagem de texto for recebida"
 "TF_MessageVolume"				    "Chat message sound volume"
-"TF_ChatCloseOnSend"				"Close chat on message send"
-"TF_ChatCloseOnSend_Tip"			"If set, closes chat after sending a message"
-"TF_DownloadFilter_Title"			"Permissions for custom files downloaded from servers"
-"GameUI_DownloadFilter_All"			"Allow all custom files"
-"GameUI_DownloadFilter_NoSounds"	"No custom sounds"
-"GameUI_DownloadFilter_MapsOnly"	"Only map files"
-"GameUI_DownloadFilter_None"		"No custom files"
+"TF_ChatCloseOnSend"				"Fechar o chat ao enviar uma mensagem"
+"TF_ChatCloseOnSend_Tip"			"Ative para fechar a janela de chat ao enviar uma mensagem"
+"TF_DownloadFilter_Title"			"Quando um servidor tenta baixar conteúdo personalizado para o seu computador"
+"GameUI_DownloadFilter_All"			"Permitir todos"
+"GameUI_DownloadFilter_NoSounds"	"Nenhum som personalizado"
+"GameUI_DownloadFilter_MapsOnly"	"Apenas mapas"
+"GameUI_DownloadFilter_None"		"Nenhum arquivo personalizado"
 
 "TF_Network_Rate"       			"Taxa de atualização da rede"
 "TF_Network_Rate_Tip"       		"Sets network update rate, which inversely sets interpolation amount.\n\nRecommended to try each and see which feels best on your network connection."
@@ -1386,18 +1386,18 @@ Team ownership of Control Points is randomized at the start of each round."
 
 "TF_NextTip"							"Próxima dica"
 																								   
-"Stat_PadJumps"							"JUMPPADS"
+"Stat_PadJumps"							"SALTADORES"
 
-"StatPanel_Label_PadJumps"				"# of pad jumps: "
+"StatPanel_Label_PadJumps"				"Nº de saltos nos Saltadores: "
 
 "TF_ClassRecord_MostUbercharges"		"Máx. ÜberCargas:"
 "TF_ClassRecord_Alt_MostUbercharges"	"ÜberCarga(s)"
-"TF_ClassRecord_MostPadJumps"			"Most pad jumps:"
-"TF_ClassRecord_Alt_MostPadJumps"		"pad jump(s)"
+"TF_ClassRecord_MostPadJumps"			"Máx. de saltos em Saltadores:"
+"TF_ClassRecord_Alt_MostPadJumps"		"salto(s) em Saltadores"
 
-"StatPanel_PadJumps_Best"				"Your jump pads were used more that round than your previous best."
-"StatPanel_PadJumps_Tie"				"You tied your record for pad jumps that round."
-"StatPanel_PadJumps_Close"				"You came close to your record for pad jumps that round."
+"StatPanel_PadJumps_Best"				"Você bateu o seu recorde de saltos nos seus Saltadores em uma única vida."
+"StatPanel_PadJumps_Tie"				"Você empatou com o seu recorde de saltos nos seus Saltadores em uma única vida."
+"StatPanel_PadJumps_Close"				"Você quase bateu o seu recorde de saltos nos seus Saltadores em uma única vida."
 "StatPanel_MVM_PadJumps_Best"			"Your jump pads were used more that round of Mann vs. Machine than your previous best."
 "StatPanel_MVM_PadJumps_Tie"			"You tied your record for pad jumps that round of Mann vs. Machine."
 "StatPanel_MVM_PadJumps_Close"			"You came close to your record for pad jumps that round of Mann vs. Machine."
@@ -1510,7 +1510,7 @@ Team ownership of Control Points is randomized at the start of each round."
 "ServerBrowser_SortByMap" "Mapa"
 "ServerBrowser_SortByPlayers" "Jogadores"
 "ServerBrowser_SortByLatency" "Latẽncia"
-"ServerBrowser_SortByLastPlayed" "Last played"
+"ServerBrowser_SortByLastPlayed" "Jogado por último"
 "ServerBrowser_UseLegacyBrowser" "Usar navegador antigo"
 "ServerBrowser_CurrentMapHeading" "Mapa atual:"
 "ServerBrowser_TagListHeading" "Marcadores:"
