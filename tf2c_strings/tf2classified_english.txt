@@ -57,6 +57,9 @@
 "TF_GreenTeam_Name"				"GRN"
 "TF_YellowTeam_Name"			"YLW"
 
+"TF_teamswitch_green"			"You are now on GRN!"
+"TF_teamswitch_yellow"			"You are now on YLW!"
+
 "TF_Other_Name"					"OTHER"
 
 // Disguise Kit global disguise
