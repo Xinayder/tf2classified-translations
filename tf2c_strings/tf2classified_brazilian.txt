@@ -57,6 +57,9 @@
 "TF_GreenTeam_Name"				"GRN"
 "TF_YellowTeam_Name"			"YLW"
 
+"TF_teamswitch_green"			"Você agora está na equipe GRN!"
+"TF_teamswitch_yellow"			"Você agora está na equipe YLW!"
+
 "TF_Other_Name"					"OUTRA"
 
 // Disguise Kit global disguise
@@ -113,8 +116,8 @@
 "TF_playerid_object_upgrading_level"	"( Nível %s1 ) Aprimorando..."
 "TF_playerid_object_building"			"Construindo..."
 "TF_playerid_object_building_level"		"( Nível %s1 ) Construindo..."
-"TF_playerid_teleporter_no_entrance"	"  -  Não há uma entrada correspondente"
-"TF_playerid_teleporter_no_exit"		"  -  Não há uma saída correspondente"
+"TF_playerid_teleporter_no_entrance"	"  -  Sem entrada"
+"TF_playerid_teleporter_no_exit"		"  -  Sem saída"
 "TF_playerid_object_recharging"			"  -  Recarregando: %s1%"
 "TF_playerid_object_flooded"			"Inundado"
 "TF_playerid_carrying"					"Carregando: %s1"
@@ -205,7 +208,7 @@
 // Soldier
 "Tip_3_Count"	"12"
 // Generic
-"Tip_3_1"		"Press %voicemenu 0 0% to call for a Medic if you get hurt. Nearby Medics will be notified of your need."
+"Tip_3_1"		"Press %helpme% to call for a Medic if you get hurt. Nearby Medics will be notified of your need."
 "Tip_3_2"		"As a Soldier, you can rocket jump to great heights by firing a rocket at your feet while jumping."
 "Tip_3_3"		"As a Soldier, crouch when preparing for a rocket jump in order to achieve maximum height."
 "Tip_3_4"		"As a Soldier, aim rockets at the feet of enemies to ensure they can't avoid the explosive damage."
@@ -316,7 +319,7 @@
 "Tip_8_Count"	"15"
 // Generic
 "Tip_8_1"		"As a Spy, you can disguise yourself as an enemy with your Disguise Kit. Beware, as you can still bump into enemies, and attacking will remove your disguise."
-"Tip_8_2"		"As a Spy, call for enemy Medics by pressing %voicemenu 0 0% while disguised."
+"Tip_8_2"		"As a Spy, call for enemy Medics by pressing %helpme% while disguised."
 "Tip_8_3"		"As a Spy, try to act like an enemy while disguised. Observe where enemy team members are, and disguise as one of them."
 "Tip_8_4"		"As a Spy, pressing %reload% while disguised will make you appear to reload to enemy team members."
 "Tip_8_5"		"As a Spy, press %speed% to move at your normal running speed while disguised as slower classes."
@@ -726,6 +729,7 @@
 "Attrib_DamageDelaysRegeneration"					"Regeneração de vida atrasa em %s1s ao receber dano"
 "Attrib_DestroyGrenadesDetonateOwn"					"Explosões destroem granadas inimigas e detonam os seus explosivos"
 "Attrib_HoldFirePreventDetonation"					"Hold Fire: Prevent grenade detonation"
+"Attrib_MiniCritAirborneEnemies"					"100% de minicrits contra inimigos no ar"
 "Attrib_CritAirborneEnemies"						"100% de críticos contra inimigos no ar"
 "Attrib_ModCritAirborneDirectHitOnly"				"Críticos contra inimigos no ar apenas com acertos diretos"
 "Attrib_ObjectivesGiveCrits"						"100% de críticos contra inimigos capturando, defendendo ou carregando objetivos"
@@ -1264,6 +1268,8 @@ Team ownership of Control Points is randomized at the start of each round."
 "GameUI_Restart"						"Restart required"
 "GameUI_RestartText"					"Some changes you have made require the game to be restarted:"
 "GameUI_OptionsRestart_Revert"			"Revert changes"
+
+"GameUI_Disconnect_TooManyCommands"		"Disconnect: Too many commands."
 
 // Combat
 "TF2C_Option_DamageFeedback"				"Enable damage feedback"
