@@ -1101,6 +1101,8 @@ Team ownership of Control Points is randomized at the start of each round."
 
 "TF_Menu_Welcome"			"Welcome back,"
 
+"TF_Menu_HideName"			"[REDACTED]"
+
 "TF_Menu_ResumeGame"		"Resume Game"
 "TF_Menu_Mute"				"Mute Players"
 "TF_Menu_Vote"				"Call a Vote"
@@ -1354,7 +1356,7 @@ Team ownership of Control Points is randomized at the start of each round."
 "TF_ClassAutoKill_Tip"				"If set, immediately forces respawn whenever you change class while out in the field.\n\nIf unset, change class on respawn."
 "TF_ClassMenu_Music"				"Class selection menu music"
 "TF_StreamerMode"					"Enable streamer mode"
-"TF_StreamerMode_Tip"				"If set, disables the chat (except for voice chat) and anonymizes everyone in the match"
+"TF_StreamerMode_Tip"				"If set, hides all text chat and anonymizes everyone, including you."
 "TF_ModelMuzzleFlash"				"Enable beta model muzzleflash"
 "TF_ModelMuzzleFlash_Tip"			"If set, muzzleflashes will use models instead of particles"
 
