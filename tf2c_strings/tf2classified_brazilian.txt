@@ -60,6 +60,9 @@
 "TF_teamswitch_green"			"Você agora está na equipe GRN!"
 "TF_teamswitch_yellow"			"Você agora está na equipe YLW!"
 
+"TF_Team_Balanced"				"%s1 foi movido(a) para a equipe %s2"
+"TF_Autobalance_TeamChangeDone"	"Você foi movido(a) para a equipe %s1"
+
 "TF_Other_Name"					"OUTRA"
 
 // Disguise Kit global disguise
@@ -1002,6 +1005,11 @@ Team ownership of Control Points is randomized at the start of each round."
 "generic_cap_D"			"Ponto de controle D"
 "generic_cap_E"			"Ponto de controle E"
 
+// Arena
+"TF_Arena_Welcome"				"Arena"
+"TF_Arena_Team_SizeIncreased"	"A equipe %s1 agora possui %s2 jogadores."
+"TF_Arena_Team_SizeDecreased"	"A equipe %s1 agora possui %s2 jogadores."
+
 // ----------------------------------------------------------------
 // Intro movies
 // ----------------------------------------------------------------
@@ -1099,6 +1107,7 @@ Team ownership of Control Points is randomized at the start of each round."
 // ----------------------------------------------------------------
 
 "TF_Menu_Welcome"			"Bem-vindo(a) novamente,"
+"TF_Menu_Name"				"%playername%!"
 
 "TF_Menu_HideName"			"[CENSURADO]"
 
@@ -1135,6 +1144,9 @@ Team ownership of Control Points is randomized at the start of each round."
 "TF_Friends_Status_Online"			"Online"
 "TF_Friends_Status_Away"			"Ausente"
 "TF_Friends_Status_Offline"			"Off-line"
+
+
+"ChallengeDetails"					"%s1 as the %s2"
 
 
 // ----------------------------------------------------------------
