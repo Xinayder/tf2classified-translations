@@ -137,18 +137,18 @@
 "TF_playerid_civiliancharge_wpn"		"Bancando: %s1 (%s2%)"
 
 // Buildings
-"TF_playerid_object"					"%s1 (%s2)"
-"TF_playerid_object_diffteam"			"%s1 do inimigo (%s2)"
-"TF_playerid_object_mini"				"Mini-%s1 (%s2)"
-"TF_playerid_object_mode"				"%s1 %s3 (%s2)"
+"TF_playerid_object"					"%s1 de %s2"
+"TF_playerid_object_diffteam"			"%s1 inimigo de %s2"
+"TF_playerid_object_mini"				"Mini-%s1 de %s2"
+"TF_playerid_object_mode"				"%s3 do %s1 de %s2"
 "TF_playerid_object_ownerless"			"%s1"
 
 "TF_playerid_object_building"			"Construindo..."
 
-"TF_playerid_object_level"				"Nível %s1"
-"TF_playerid_object_level_upgrade"		"(Nível %s1) Aprimoramento: %s2"
-"TF_playerid_object_level_upgrading"	"(Nível %s1) Aprimorando..."
-"TF_playerid_object_level_building"		"(Nível %s1) Construindo..."
+"TF_playerid_object_level"				"( Nível %s1 )"
+"TF_playerid_object_level_upgrade"		"( Nível %s1 ) Aprimoramento: %s2"
+"TF_playerid_object_level_upgrading"	"( Nível %s1 ) Aprimorando..."
+"TF_playerid_object_level_building"		"( Nível %s1 ) Construindo..."
 
 
 "TF_playerid_teleporter_no_entrance"	"  -  Sem entrada"
@@ -159,10 +159,10 @@
 "TF_playerid_object_flooded"			"Inundado"
 
 "TF_playerid_carrying"					"Carregando: %s1"
-"TF_playerid_carrying_lvl"				"Carregando: %s1 (Nível %s2)"
+"TF_playerid_carrying_lvl"				"Carregando: %s1 ( Nível %s2 )"
 
-"TF_friendly"							"Aliado"
-"TF_enemy"								"Inimigo"
+"TF_friendly"							"aliado"
+"TF_enemy"								"inimigo"
 
 // ----------------------------------------------------------------
 // Respawning
@@ -677,8 +677,8 @@
 "TF_Object_Jump"					"Saltador"
 "TF_Object_Jump_A"					"Saltador - A"
 "TF_Object_Jump_B"					"Saltador - B"
-"TF_JumpPad_Mode_A"					"A"
-"TF_JumpPad_Mode_B"					"B"
+"TF_JumpPad_Mode_A"					"Plataforma A"
+"TF_JumpPad_Mode_B"					"Plataforma B"
 
 // ----------------------------------------------------------------
 // Weapon attributes
