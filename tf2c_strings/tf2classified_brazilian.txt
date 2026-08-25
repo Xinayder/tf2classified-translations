@@ -1603,7 +1603,7 @@ A posse dos Pontos de Controle por cada equipe é aleatorizada no início de cad
 "TF2C_ACHIEVEMENT_KILL_VIP_DAMAGERS_DESC"				"Mate 20 inimigos que tenham causado dano recentemente ao seu VIP enquanto ele ainda estiver vivo."
 "TF2C_ACHIEVEMENT_REVOLVER_KILLS_SINGLE_LIFE_NAME"		"Je Suis James"
 "TF2C_ACHIEVEMENT_REVOLVER_KILLS_SINGLE_LIFE_DESC"		"Consiga 3 mortes com o Revólver sem morrer."
-"TF2C_ACHIEVEMENT_FIRE_AXE_DEATH_AFTERBURN_NAME"		"Um Lembrança que Queima"
+"TF2C_ACHIEVEMENT_FIRE_AXE_DEATH_AFTERBURN_NAME"		"Uma Lembrança que Queima"
 "TF2C_ACHIEVEMENT_FIRE_AXE_DEATH_AFTERBURN_DESC"		"Como um Pyro, cause um total de 1.000 de dano de combustão enquanto estiver morto."
 "TF2C_ACHIEVEMENT_TELEPORTER_PROGRESSION_NAME"			"Tele Turismo"
 "TF2C_ACHIEVEMENT_TELEPORTER_PROGRESSION_DESC"			"Teletransporte outros jogadores por mais de 10 quilômetros."
