@@ -1212,6 +1212,7 @@ A posse dos Pontos de Controle por cada equipe é aleatorizada no início de cad
 "TF_Friends_Status_Online"			            "Online"
 "TF_Friends_Status_Away"			            "Ausente"
 "TF_Friends_Status_Offline"			            "Offline"
+"TF_Friends_InviteServer"			            "Convidar para o servidor"
 
 "TF_RichPresence_State_InServer"				"%maptype% - %mapname%"
 "TF_RichPresence_State_InServer_MapNameOnly"	"%mapname%"
@@ -1352,6 +1353,7 @@ A posse dos Pontos de Controle por cada equipe é aleatorizada no início de cad
 "GameUI_Off"               				"Desligado"
 "GameUI_Everyone"               		"Todos"
 "GameUI_FriendsOnly"               		"Apenas amigos"
+"GameUI_Alpha"                          "Alfa"
 
 "GameUI_Restart"						"É necessário reiniciar"
 "GameUI_RestartText"					"Algumas alterações que você fez exigem que o jogo seja reiniciado:"
