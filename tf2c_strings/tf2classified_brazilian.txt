@@ -107,36 +107,36 @@
 "ClassTips_1_1"				"Dê pulos duplos enquanto estiver no ar!"
 
 "ClassTips_1_Count_Escort"	"1"
-"ClassTips_1_1_Escort"		"Empurre carrinhos duas vezes mais rápido que outras classes!"
+"ClassTips_1_1_Escort"		"Você empurra carrinhos mais rápido do que outras classes!"
 
 "ClassTips_1_Count_default"	"1"
-"ClassTips_1_1_default"		"Capture pontos de controle duas vezes mais rápido que outras classes!"
+"ClassTips_1_1_default"		"Você captura pontos mais rápido do que outras classes!"
 
 // Sniper
 "ClassTips_2_Count"			"2"
-"ClassTips_2_1"				"Use a luneta para carregar o dano de seu rifle de precisão!"
-"ClassTips_2_2"				"Mire na cabeça para causars dano crítico!"
+"ClassTips_2_1"				"Carregue o disparo do rifle de precisão para causar mais dano!"
+"ClassTips_2_2"				"Mire na cabeça para causar críticos!"
 
 // Soldier
 "ClassTips_3_Count"			"2"
-"ClassTips_3_1"				"Atire foguetes nos pés dos inimigos!"
-"ClassTips_3_2"				"Pule enquanto atira um foguete no chão para dar um salto com foguete (rocket jump)!"
+"ClassTips_3_1"				"Atire com o lança-foguetes nos pés de inimigos!"
+"ClassTips_3_2"				"Use o lança-foguetes para dar um salto com foguete!"
 
 // Demoman
 "ClassTips_4_Count"			"2"
-"ClassTips_4_1"				"Detone remotamente suas stickybombs quando os inimigos estiverem perto delas!"
-"ClassTips_4_2"				"Detone as suas stickybombs na hora que pular para dar um salto com stickybombs!"
+"ClassTips_4_1"				"Detone remotamente as suas stickybombs quando os inimigos se aproximarem delas!"
+"ClassTips_4_2"				"Dê um salto explosivo ao ficar em cima de uma ou mais stickybombs e pular ao detoná-las!"
 
 // Medic
 "ClassTips_5_Count"			"3"
-"ClassTips_5_1"				"Cure aliados para carregar a sua ÜberCarga!"
-"ClassTips_5_2"				"Use a ÜberCarga para deixar você e o alvo de sua arma médica invulneráveis!"
-"ClassTips_5_3"				"A sua vida regenera passivamente!"
+"ClassTips_5_1"				"Carregue a ÜberCarga ao curar aliados!"
+"ClassTips_5_2"				"Ative a ÜberCarga para aplicar um efeito poderoso a você e ao alvo da sua cura!"
+"ClassTips_5_3"				"Regenere sua vida passivamente!"
 
 // Heavy
 "ClassTips_6_Count"			"2"
 "ClassTips_6_1"				"Dilacere inimigos com sua metralhadora giratória!"
-"ClassTips_6_2"				"Mantenha a sua metralhadora giratória girando perto de cantos para impedir a aproximação de inimigos!"
+"ClassTips_6_2"				"Mantenha a sua metralhadora girando sem atirar para estar preparado contra ataques iminentes!"
 
 // Pyro
 "ClassTips_7_Count"			"2"
@@ -145,17 +145,17 @@
 
 // Spy
 "ClassTips_8_Count"			"4"
-"ClassTips_8_1"				"Disguise yourself as an enemy and infiltrate the enemy base!"
-"ClassTips_8_2"				"Cloak yourself to avoid being seen!"
-"ClassTips_8_3"				"Backstab your enemies with your Knife for an instant kill!"
-"ClassTips_8_4"				"Plant Sappers on enemy buildings to destroy them!"
+"ClassTips_8_1"				"Disfarce-se como um inimigo e infiltre-se na base deles!"
+"ClassTips_8_2"				"Camufle-se para evitar ser visto!"
+"ClassTips_8_3"				"Esfaqueie inimigos nas costas para matá-los instantaneamente!"
+"ClassTips_8_4"				"Coloque sabotadores em construções inimigas para destruí-las!"
 
 // Engineer
 "ClassTips_9_Count"			"4"
 "ClassTips_9_1"				"Construa Sentinelas para defender a sua base! Aprimore-as para o nível 3!"
 "ClassTips_9_2"				"Seus Fornecedores fornecem vida e munição!"
-"ClassTips_9_3"				"Construa Teletransportadores para ajudar a sua equipe a alcançar as linhas de frente mais rapidamente!"
-"ClassTips_9_4"				"Colete metal de armas no chão para erguer, reparar e aprimorar as suas construções!"
+"ClassTips_9_3"				"Construa Teletransportadores para levar aliados às linhas de frente!"
+"ClassTips_9_4"				"Colete metal de armas largadas no chão para erguer e aprimorar construções!"
 
 // Civilian
 "TF_Civilian" 				"CIVILIAN"
@@ -163,7 +163,7 @@
 
 "ClassTips_10_Count"	"3"
 "ClassTips_10_1"		"Banque o poder de um aliado para dar a ele uma vantagem na batalha!"
-"ClassTips_10_2"		"Fique perto dos seus aliados para dar à eles resistência a dano e cura passiva!"
+"ClassTips_10_2"		"Fique próximo de seus aliados para dar à eles resistência a dano e cura passiva!"
 "ClassTips_10_3"		"Sem relevância nas lutas!"
 
 // Random
