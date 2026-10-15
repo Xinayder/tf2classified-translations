@@ -753,7 +753,7 @@
 "Attrib_Mod_Horizontal_Spread"						"As balas têm dispersão ampla e horizontal"
 "Attrib_ApplySelfKnockback"							"Aplica recuo reverso em um tiro"
 "Attrib_WeaponEnemyKnockback_Bonus"					"+%s1% de repulsão no inimigo"
-"Attrib_LifestealCrit"								"Ao acertar: roube a vida de sua vítima enquanto a barra de crítico estiver cheia"
+"Attrib_LifestealCrit"								"Ataques carregados atingem vários inimigos e curam o usuário"
 "Attrib_FlatHealOnAfterburn_Active"					"+%s1 de ganho de vida por pulso de queimadura enquanto empunhada"
 "Attrib_RememberTargetsRemainingAfterburn"			"Rastros de queima residual em alvos destruídos"
 "Attrib_OnDeathRemoveTargetsAfterburn"				"Inimigos em chamas são extinguidos ao morrer"
@@ -874,7 +874,6 @@
 "Attrib_Minelayer_Explain_1"						"Minas terrestres podem causar reação em cadeia"
 "Attrib_Minelayer_Explain_2"						"Minas terrestres possuem alcance e dano aumentados"
 "Attrib_Minelayer_Explain_3"						"Máximo de 4 minas ativas simultâneamente"
-"Attrib_Harvester_Explain_1"						"Ataques carregados acertam vários inimigos e curam a si próprio"
 
 // ----------------------------------------------------------------
 // Map strings
