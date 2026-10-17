@@ -1772,5 +1772,14 @@ A posse dos Pontos de Controle por cada equipe é aleatorizada no início de cad
 
 "TF_Welcome_birthday"			"Bem-vindo(a) e feliz aniversário, TF2!"
 "TF_Welcome_qwtf_birthday"		"Bem-vindo(a) e feliz aniversário, QWTF!"
+
+// ----------------------------------------------------------------
+// Lore overrides
+// ----------------------------------------------------------------
+"TF_HALLOWEEN_BOSS_DEATHCAM_NAME"			"O Cavaleiro Carente de Cavalo e Cabeça"
+"TF_HALLOWEEN_BOSS_WARN_AGGRO"				"Você enfureceu o Cavaleiro Carente de Cavalo e Cabeça!"
+"TF_Halloween_Boss_Appeared"		"O Cavaleiro Carente de Cavalo e Cabeça apareceu!\n"
+"TF_Halloween_Boss_Killed"			"O Cavaleiro Carente de Cavalo e Cabeça foi derrotado!\n"
+"TF_Halloween_Boss_Killers"			"%s1 derrotou o Cavaleiro Carente de Cavalo e Cabeça!\n"
 }
 }
